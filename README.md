@@ -1,1 +1,1 @@
-# Portfolio
+Hi Everyone! This is my portfolio and I will be posting all of my data analytics work here. I have completed a Case Study for the Google Data Analytics Certicate where I analyzed Bike share data to help the company make data-driven decisions when developing their new marketing campaign that will target casual riders and try and convert them to members. 
